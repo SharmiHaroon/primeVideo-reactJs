@@ -1,0 +1,20 @@
+
+/* Write your CSS here */
+.close-button {
+  text-align: right;
+}
+.button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  font-size: 24px;
+}
+.popup-content {
+  top: 25% !important;
+  left: 25% !important;
+  width: 700px !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
